@@ -2,7 +2,7 @@
 // echo "Hi, tron-php3";
 // echo "<br>";
 
-include_once 'tron-phpx/vendor/autoload.php';
+include_once 'tron-p/vendor/autoload.php';
 
 use GuzzleHttp\Client;
 use PHPUnit\Framework\TestCase;
